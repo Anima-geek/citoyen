@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center; /* Centre horizontalement */
+    align-items: center;     /* Centre verticalement */
+    height: 100vh;           /* Assure que le conteneur prend toute la hauteur de la fenêtre */
+  }
+  
+  .text {
+    text-align: center;      /* Centre le texte à l'intérieur de l'élément */
+    font-size: 200%;
+  }
+
+  .highlight {
+    background-color: yellow; /* Couleur de surlignage */
+    color: black;             /* Couleur du texte */
+  }
+  
+  
